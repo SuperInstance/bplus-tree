@@ -1,9 +1,11 @@
 [package]
 name = "bplus-tree"
 version = "0.1.0"
-description = "A Rust library for Bplus Tree"
+description = "Bplus Tree — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/bplus-tree"
+repository = "https://github.com/SuperInstance/bplus-tree"
 edition = "2021"
+
+keywords = ["bplus-tree"]
 
 [dependencies]
